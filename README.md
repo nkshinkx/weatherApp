@@ -1,3 +1,5 @@
+![Project Screenshot](public/assets/image.png)
+
 ### Prerequisites
 
 - PHP 8.2 or higher
